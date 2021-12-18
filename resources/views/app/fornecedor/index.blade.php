@@ -1,1 +1,1 @@
-<h3>Fornecedor</h3>
+<h3>Fornecedores</h3>
